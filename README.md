@@ -19,14 +19,13 @@
 
 
 
-## 👨‍💻 About Me:
-Hi there! 👋 I'm **Joseba**, a passionate **Software Developer** from **Spain** with expertise in **automation**, **full-stack development**, and **Verification & Validation (V&V)** for critical systems.  
+## 👨‍💻 About me:
+Hi! 👋 I'm **Joseba**, a passionate **software developer** from **Spain** with experience in **automation**, **full-stack development**, and **Verification and Validation (V&V)** for critical systems.
 
-- 🔧 **Current Focus:** Building automation solutions and contributing to railway safety systems.
-- 🌱 **Learning:** Machine Learning frameworks, DevOps tools, and advanced system design.
-- 🎯 **Goals:** Develop AI-powered tools and explore system programming with Rust.  
+- 🔧 **Current focus:** I'm currently immersed in the railway V&V sector, specializing in developing robust automation processes.
+- 🌱 **Learning:** I'm expanding my expertise by diving deep into powerful frameworks like Pandas, NumPy, and OpenCV, enhancing my ability to handle data and image processing.
 
----
+- 🎯 **Goals:** While my favorite language is Java, and I aspire to work on exciting projects with it, I'm equally enthusiastic about continuing my journey with Python and exploring its endless possibilities.
 
 ## 💼 Professional experience:
 These are the projects they work on professionally for some companies
@@ -46,12 +45,21 @@ These are the projects they work on professionally for some companies
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
+---
+
 ### **Frameworks & Libraries:**
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+
+#### **Python Frameworks:**
 ![Tkinter](https://img.shields.io/badge/Tkinter-%2300ff.svg?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+#### **Java Frameworks:**
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+
+---
 
 ### **Databases:**
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -59,21 +67,12 @@ These are the projects they work on professionally for some companies
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+---
+
 ### **DevOps Tools:**
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
----
-
-
-## 🌍 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseba-lorenzo) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JosebaScalian) 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-
----
 
 ## 🎨 Portfolio Highlights:
 <p align="center">
