@@ -4,10 +4,20 @@
 ---
 
 <p align="center">
-  <img src="https://i.ibb.co/txrjRJM/descarga-1-removebg-preview.png" alt="Shiro Developer Logo" width="300" />
+  <img src="https://i.ibb.co/txrjRJM/descarga-1-removebg-preview.png" alt="Shiro Developer Banner" width="40%" />
 </p>
 
 ---
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JosebaScalian&theme=radical&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosebaScalian&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosebaScalian&theme=radical&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+
 
 ## 👨‍💻 About Me:
 Hi there! 👋 I'm **Joseba**, a passionate **Software Developer** from **Spain** with expertise in **automation**, **full-stack development**, and **Verification & Validation (V&V)** for critical systems.  
@@ -18,56 +28,58 @@ Hi there! 👋 I'm **Joseba**, a passionate **Software Developer** from **Spain*
 
 ---
 
+## 💼 Professional experience:
+These are the projects they work on professionally for some companies
+
+| **Project**                   | **Description**                                                                         |
+|-------------------------------|-----------------------------------------------------------------------------------------|
+| [🔒 Fraud Detection App] | Python app to detect forged signatures.
+| [🤖 AI Chatbot]         | NLP chatbot with sentiment analysis.            
+| [🚄 Railway V&V Tools]  | Tools for railway signaling verification and validation. 
+
+---
+
+## ⚙️ Tech Stack:
+
+### **Languages:**
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### **Frameworks & Libraries:**
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-%2300ff.svg?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### **Databases:**
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### **DevOps Tools:**
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+---
+
+
 ## 🌍 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseba-lorenzo/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JosebaScalian)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseba-lorenzo) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JosebaScalian) 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 ---
 
-## ⚙️ GitHub Metrics:
-
-![Metrics](https://metrics.lecoq.io/<JosebaScalian>?template=classic&isocalendar=1&languages=1&achievements=1&repositories=1&activity=1)
-
----
-
-## 📊 GitHub Stats:
+## 🎨 Portfolio Highlights:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosebaScalian&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosebaScalian&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosebaScalian&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://via.placeholder.com/1200x600.png?text=Project+Screenshot+1" alt="Project Screenshot" />
 </p>
-
----
-
-## 🏆 Achievements:
-- 🌟 **Top Repositories Created**  
-- 🚀 **Active Contributor Since 2021**  
-- 🎖️ **Contributions Across 10+ Projects**
-
----
-
-## 💼 Highlighted Projects:
-Here are some examples of my work (simulated for confidentiality):
-
-- 🔒 **Fraud Detection App:**  
-   Developed a Python application to identify forged signatures, achieving >90% accuracy.  
-   - **Technologies:** Python, OpenCV, Numpy, Pandas.
-
-- 🤖 **AI Chatbot:**  
-   Built an NLP-powered chatbot with sentiment analysis for customer service automation.  
-   - **Technologies:** Python, Machine Learning, NLTK.
-
-- 🚄 **Railway V&V Tools:**  
-   Contributed to verification and validation systems for railway signaling under EN 50128.  
-   - **Technologies:** Java, SpringBoot, Hibernate, SQL.
-
----
-
-## 🛠️ Workflows:
-- 🚀 **Agile Development:** Experience in Scrum and Kanban methodologies.
-- 🔄 **CI/CD Pipelines:** Using Docker, Kubernetes, and Jenkins for automated deployments.
-- 🛡️ **Testing Strategies:** Focused on Unit, Integration, and System testing.
+*Explore more projects [here](https://github.com/JosebaScalian?tab=repositories).*
 
 ---
 
@@ -76,4 +88,5 @@ Here are some examples of my work (simulated for confidentiality):
 💬 **Collaborate With Me:** Feel free to reach out via [LinkedIn](https://linkedin.com/in/joseba-lorenzo/) or [Email](mailto:youremail@example.com).  
 
 ---
+
 
