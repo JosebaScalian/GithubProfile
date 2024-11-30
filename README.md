@@ -1,7 +1,11 @@
 # 🚀 Welcome to My GitHub Profile!
 > *"Transforming ideas into code and solutions into impact."* 🌌  
 
-![Banner](https://ibb.co/LJ7jKZz) <!-- Crea tu banner en Canva o con una herramienta de diseño y sube la imagen aquí -->
+---
+
+<p align="center">
+  <img src="https://i.ibb.co/txrjRJM/descarga-1-removebg-preview.png" alt="Shiro Developer Logo" width="300" />
+</p>
 
 ---
 
@@ -21,24 +25,9 @@ Hi there! 👋 I'm **Joseba**, a passionate **Software Developer** from **Spain*
 
 ---
 
-## ⚙️ Tech Stack:
-### Languages
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+## ⚙️ GitHub Metrics:
 
-### Frameworks and Libraries
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### DevOps Tools
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Metrics](https://metrics.lecoq.io/<JosebaScalian>?template=classic&isocalendar=1&languages=1&achievements=1&repositories=1&activity=1)
 
 ---
 
@@ -52,7 +41,9 @@ Hi there! 👋 I'm **Joseba**, a passionate **Software Developer** from **Spain*
 ---
 
 ## 🏆 Achievements:
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=JosebaScalian&theme=radical&no-frame=false&margin-w=15)
+- 🌟 **Top Repositories Created**  
+- 🚀 **Active Contributor Since 2021**  
+- 🎖️ **Contributions Across 10+ Projects**
 
 ---
 
@@ -60,14 +51,29 @@ Hi there! 👋 I'm **Joseba**, a passionate **Software Developer** from **Spain*
 Here are some examples of my work (simulated for confidentiality):
 
 - 🔒 **Fraud Detection App:**  
-   Developed a Python application to identify forged signatures, achieving >90% accuracy.
-     
+   Developed a Python application to identify forged signatures, achieving >90% accuracy.  
+   - **Technologies:** Python, OpenCV, Numpy, Pandas.
 
 - 🤖 **AI Chatbot:**  
-   Built an NLP-powered chatbot with sentiment analysis for customer service automation.
-  
+   Built an NLP-powered chatbot with sentiment analysis for customer service automation.  
+   - **Technologies:** Python, Machine Learning, NLTK.
 
 - 🚄 **Railway V&V Tools:**  
-   Contributed to verification and validation systems for railway signaling under EN 50128.
-   
+   Contributed to verification and validation systems for railway signaling under EN 50128.  
+   - **Technologies:** Java, SpringBoot, Hibernate, SQL.
+
+---
+
+## 🛠️ Workflows:
+- 🚀 **Agile Development:** Experience in Scrum and Kanban methodologies.
+- 🔄 **CI/CD Pipelines:** Using Docker, Kubernetes, and Jenkins for automated deployments.
+- 🛡️ **Testing Strategies:** Focused on Unit, Integration, and System testing.
+
+---
+
+## 🚀 Call to Action:
+👀 **Explore My Repositories:** [Click Here](https://github.com/JosebaScalian?tab=repositories)  
+💬 **Collaborate With Me:** Feel free to reach out via [LinkedIn](https://linkedin.com/in/joseba-lorenzo/) or [Email](mailto:youremail@example.com).  
+
+---
 
