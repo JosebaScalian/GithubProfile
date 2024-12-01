@@ -1,40 +1,42 @@
 # 🚀 Welcome to My GitHub Profile!
-> *"Transforming ideas into code and solutions into impact."* 🌌  
+
+> *"Transforming ideas into code and solutions into impact."* 🌌
 
 ---
 
 <p align="center">
-  <img src="https://i.ibb.co/txrjRJM/descarga-1-removebg-preview.png" alt="Shiro Developer Banner" width="40%" />
+   <img src="https://i.ibb.co/txrjRJM/descarga-1-removebg-preview.png" alt="Shiro Developer Banner" width="40%" />
 </p>
 
 ---
+
 ## 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosebaScalian&theme=radical&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosebaScalian&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosebaScalian&theme=radical&layout=compact" alt="Top Languages" />
+   <img src="https://github-readme-stats.vercel.app/api?username=JosebaShiro&theme=radical&show_icons=true" alt="GitHub Stats" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosebaShiro&theme=radical" alt="GitHub Streak" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosebaShiro&theme=radical&layout=compact" alt="Top Languages" />
 </p>
 
 ---
-
-
 
 ## 👨‍💻 About me:
+
 Hi! 👋 I'm **Joseba**, a passionate **software developer** from **Spain** with experience in **automation**, **full-stack development**, and **Verification and Validation (V&V)** for critical systems.
 
 - 🔧 **Current focus:** I'm currently immersed in the railway V&V sector, specializing in developing robust automation processes.
 - 🌱 **Learning:** I'm expanding my expertise by diving deep into powerful frameworks like Pandas, NumPy, and OpenCV, enhancing my ability to handle data and image processing.
-
 - 🎯 **Goals:** While my favorite language is Java, and I aspire to work on exciting projects with it, I'm equally enthusiastic about continuing my journey with Python and exploring its endless possibilities.
 
 ## 💼 Professional experience:
+
 These are the projects they work on professionally for some companies
 
-| **Project**                   | **Description**                                                                         |
-|-------------------------------|-----------------------------------------------------------------------------------------|
-| [🔒 Fraud Detection App] | Python app to detect forged signatures.
-| [🤖 AI Chatbot]         | NLP chatbot with sentiment analysis.            
-| [🚄 Railway V&V Tools]  | Tools for railway signaling verification and validation. 
+| **Project**           | **Description**                                                              |
+|-----------------------|------------------------------------------------------------------------------|
+| [🔒 Fraud Detection App] | Python app to detect forged signatures.                                    |
+| [🤖 AI Chatbot]        | NLP chatbot with sentiment analysis.                                        |
+| [🚄 Railway V&V Tools] | Tools for railway signaling verification and validation.                    |
 
 ---
 
@@ -73,19 +75,19 @@ These are the projects they work on professionally for some companies
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-
 ## 🎨 Portfolio Highlights:
+
 <p align="center">
-  <img src="https://via.placeholder.com/1200x600.png?text=Project+Screenshot+1" alt="Project Screenshot" />
+   <img src="https://via.placeholder.com/1200x600.png?text=Project+Screenshot+1" alt="Project Screenshot" />
 </p>
-*Explore more projects [here](https://github.com/JosebaScalian?tab=repositories).*
+
+*Explore more projects [here](https://github.com/JosebaShiro?tab=repositories).*
 
 ---
 
 ## 🚀 Call to Action:
-👀 **Explore My Repositories:** [Click Here](https://github.com/JosebaScalian?tab=repositories)  
-💬 **Collaborate With Me:** Feel free to reach out via [LinkedIn](https://linkedin.com/in/joseba-lorenzo/) or [Email](mailto:youremail@example.com).  
 
----
+👀 **Explore My Repositories:** [Click Here](https://github.com/JosebaShiro?tab=repositories)  
+💬 **Collaborate With Me:** Feel free to reach out via [LinkedIn](https://linkedin.com/in/joseba-lorenzo/) or [Email](mailto:youremail@example.com).
 
 
