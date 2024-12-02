@@ -30,15 +30,16 @@ Hi! 👋 I'm **Joseba**, a passionate **software developer** from **Spain** with
 
 ## 💼 Professional experience:
 
-These are the projects they work on professionally for some companies
+These are the projects they worked on professionally for some companies:
 
-| **Project**           | **Description**                                                              |
-|-----------------------|------------------------------------------------------------------------------|
-| [🔒 Fraud Detection App] | Python app to detect forged signatures.                                    |
-| [🤖 AI Chatbot]        | NLP chatbot with sentiment analysis.                                        |
-| [🚄 Railway V&V Tools] | Tools for railway signaling verification and validation.                    |
+| **Project**           | **Description**                                                                                         |
+|-----------------------|-------------------------------------------------------------------------------------------------------|
+| [🔒 Fraud Detection App] | Developed a mobile application using Android Studio to detect forged signatures, contributing creative ideas during the design phase.  |
+| [🤖 AI Chatbot]        | Built an advanced AI-powered chatbot (similar to ChatGPT), focusing on enhancing context understanding, integrating DataFrames to extract business-specific insights by year, generating dynamic visualizations with Matplotlib, and implementing regex for efficient data processing. |
+| [🚄 Railway V&V Tools] | Spearheaded the automation of verification and validation (V&V) processes for railway signaling systems, designing a user-friendly interface to streamline and enhance testing workflows. |
 
 ---
+
 
 ## ⚙️ Tech Stack:
 
